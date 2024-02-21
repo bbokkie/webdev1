@@ -1,0 +1,137 @@
+/* ##################### Tag Selectors ################### */
+/* Dark Mode */
+/* body {
+    background-color: #6a7788;
+    color:  #eeeeee;
+}
+
+hr {
+    border-style: none;
+    border-top-style: groove;
+    border-color: #4eddd5;
+    border-width: 4px;
+    width: 80%;
+}
+
+h1 {
+    color: #defffd;
+    background: #0b625e;
+}
+
+h2 {
+    color: #4eddd5;
+}
+
+h3 {
+    color: #4eddd5;
+}
+
+h4 {
+    color: #4eddd5;
+}
+
+img {
+    border-style: solid;
+    border-color: #382933;
+    border-width: 5px;
+    border-radius: 3px;
+}
+
+img:hover {
+    border-color: #a7fff9;
+}
+
+a {
+    color: rgb(255, 165, 210);
+}
+
+td {
+    padding-right: 20px;
+}
+
+.skills {
+    padding-right: 150px;
+}
+
+th {
+    padding-right: 20px;
+    color: #4eddd5;
+}
+
+/* ##################### id Selectors ################### */
+
+
+/* id is unique  and class can be used multiple times */
+
+/* #heading {
+    color: #eeeeee;
+}  */
+
+/* Light Mode */
+
+body {
+    background-color: #fffcf2;
+    color:  #787f80;
+}
+
+hr {
+    border-style: none;
+    border-top-style: groove;
+    border-color: #cc9133;
+    border-width: 4px;
+    width: 80%;
+}
+
+h1 {
+    color: #ffffff;
+    background: #59a55c;
+}
+
+h2 {
+    color: #59a55c;
+}
+
+h3 {
+    color: #59a55c;
+}
+
+h4 {
+    color: #59a55c;
+}
+
+img {
+    border-style: solid;
+    border-color: #382933;
+    border-width: 5px;
+    border-radius: 3px;
+}
+
+img:hover {
+    border-color: rgb(36, 175, 73);
+}
+
+a {
+    color: rgb(217, 163, 14);
+}
+
+td {
+    padding-right: 20px;
+}
+
+.skills {
+    padding-right: 150px;
+}
+
+th {
+    padding-right: 20px;
+    color: #59a55c;
+}
+
+/* ##################### id Selectors ################### */
+
+
+/* id is unique  and class can be used multiple times */
+
+#heading {
+    color: #eeeeee;
+}
