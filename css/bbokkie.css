@@ -111,6 +111,4 @@ td{
     
 footer {position: fixed; bottom: 5%; margin-left: 40%;}
 
-.minecraft, .gaming, .art, .twitch {
-    display: inline-block;
-}
+.minecraft, .gaming, .art, .twitch {display: inline-block;}
