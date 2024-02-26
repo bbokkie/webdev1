@@ -2,7 +2,8 @@ td{
     padding-right: 30px;
     }
     
-    #pfp {position: fixed; left: 10%; top: 30%;}
+    .pfp, .cv {display: inline-block;
+}
 
     h1{
         font-family: "Rubik Mono One", monospace;
