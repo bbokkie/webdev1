@@ -110,3 +110,7 @@ td{
         color:rgb(88, 88, 189)}
     
 footer {position: fixed; bottom: 5%; margin-left: 40%;}
+
+.minecraft, .gaming, .art, .twitch {
+    display: inline-block;
+}
