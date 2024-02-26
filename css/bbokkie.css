@@ -94,7 +94,9 @@ td{
     footer{font-family: "Josefin Sans", sans-serif;
             font-optical-sizing: auto;
             font-weight: <weight>;
-            font-style: normal;}
+            font-style: normal;
+            margin-left: auto;
+            margin-bottom: 10%;}
 
     h2 {
         font-family: "Josefin Sans", sans-serif;
@@ -109,6 +111,6 @@ td{
         font-style: normal;
         color:rgb(88, 88, 189)}
     
-footer {position: fixed; bottom: 5%; margin-left: 40%;}
+
 
 .minecraft, .gaming, .art, .twitch {display: inline-block;}
