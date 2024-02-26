@@ -96,7 +96,8 @@ td{
             font-weight: <weight>;
             font-style: normal;
             margin-left: auto;
-            margin-bottom: 10%;}
+            margin-bottom: 10%;
+            padding-top: 20%;}
 
     h2 {
         font-family: "Josefin Sans", sans-serif;
